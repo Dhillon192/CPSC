@@ -1,5 +1,5 @@
 package application;
-
+// some random comments
 public class Poll {
 	private String name;
 	private Party[] parties;
